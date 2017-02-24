@@ -1,0 +1,27 @@
+.container {
+    background-color: orange;
+    text-align: center;
+    padding: 0px;
+    height: 150px;
+    margin: 0px;
+    width:100%;
+}
+#now {
+    padding-top: 30px;
+}
+body {
+    background-color: #C0C0C0;
+}
+.aside {
+    margin-top: 50px;
+    float: left;
+    background-color: green;
+    width: 30%;
+    height: 600px;
+}
+.pingform {
+    padding-top: 50px;
+    float: right;
+    width: 65%;
+    background-color: #C0C0C0;
+}
